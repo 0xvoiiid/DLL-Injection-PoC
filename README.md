@@ -1,5 +1,9 @@
 ![pocimg](poc-img.png)
 
+## Warning ⚠️
+Não sei se essa porra(o código) tá "dahora legal", importante é que o conceito tá funcionando 😜🤪😎!
+
+
 # Obter o Snapshot
 Obtém um snapshot de todos os processos no sistema atual
 - Usando: 
