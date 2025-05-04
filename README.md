@@ -1,3 +1,5 @@
+[pocimg](poc-img.png)
+
 # Obter o Snapshot
 Obtém um snapshot de todos os processos no sistema atual
 - Usando: 
